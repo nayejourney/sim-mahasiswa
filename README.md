@@ -81,8 +81,8 @@ sim-mahasiswa/
 
 ## Setup Checklist
 
-- [ ] Python 3.10+ terinstal (`python --version` atau `py --version`).
-- [ ] pip terinstal (`python -m pip --version`).
+- [x] Python 3.10+ terinstal (`python --version` atau `py --version`).
+- [x] pip terinstal (`python -m pip --version`).
 - [ ] Virtual environment dibuat dan diaktivasi.
 - [ ] Paket terinstal dari `requirements.txt`.
 - [ ] `.gitignore` dikonfigurasi.
