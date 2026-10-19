@@ -1,0 +1,12 @@
+Contoh bentuk output (ilustrasi; jalankan program untuk memperoleh output aktual):
+
+╭──────────────────── Menu Utama ────────────────────╮
+│ SISTEM INFORMASI MAHASISWA                          │
+│                                                     │
+│ 1. Tambah mahasiswa                                 │
+│ 2. Tampilkan semua mahasiswa                        │
+│ 3. Cari mahasiswa berdasarkan NIM                  │
+│ 4. Hapus mahasiswa                                  │
+│ 5. Edit IPK mahasiswa                               │
+│ 0. Keluar                                           │
+╰─────────────────────────────────────────────────────╯
