@@ -44,17 +44,6 @@ pip install -r requirements.txt
 
 Jika PowerShell memblokir aktivasi script, gunakan Command Prompt dan jalankan `venv\Scripts\activate.bat`, atau ikuti kebijakan eksekusi yang ditetapkan pada perangkatmu.
 
-### Linux / macOS
-
-```bash
-git clone https://github.com/nayejourney/sim-mahasiswa.git
-cd sim-mahasiswa
-python3 -m venv venv
-source venv/bin/activate
-python -m pip install --upgrade pip
-pip install -r requirements.txt
-```
-
 ## Menjalankan Program
 
 Jalankan dari direktori root proyek dengan virtual environment aktif:
@@ -106,11 +95,8 @@ sim-mahasiswa/
 - [ ] Minimal 3 commit bermakna tersedia.
 - [ ] Screenshot output program disimpan di `docs/` (pengayaan).
 
-Centang checklist hanya setelah langkah terkait benar-benar selesai.
 
 ## Riwayat Pengembangan yang Disarankan
-
-Gunakan commit terpisah dan pesan yang menjelaskan perubahan, misalnya:
 
 ```text
 chore: inisiasi struktur proyek Python
