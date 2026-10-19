@@ -83,17 +83,17 @@ sim-mahasiswa/
 
 - [x] Python 3.10+ terinstal (`python --version` atau `py --version`).
 - [x] pip terinstal (`python -m pip --version`).
-- [ ] Virtual environment dibuat dan diaktivasi.
-- [ ] Paket terinstal dari `requirements.txt`.
-- [ ] `.gitignore` dikonfigurasi.
-- [ ] Program berjalan tanpa error.
-- [ ] Seluruh unit test lulus.
-- [ ] Repository Git diinisiasi.
-- [ ] Remote GitHub `origin` terhubung.
-- [ ] Perubahan berhasil di-push ke GitHub.
-- [ ] README sudah dilengkapi dengan NIM dan kelas.
-- [ ] Minimal 3 commit bermakna tersedia.
-- [ ] Screenshot output program disimpan di `docs/` (pengayaan).
+- [x] Virtual environment dibuat dan diaktivasi.
+- [x] Paket terinstal dari `requirements.txt`.
+- [x] `.gitignore` dikonfigurasi.
+- [x] Program berjalan tanpa error.
+- [x] Seluruh unit test lulus.
+- [x] Repository Git diinisiasi.
+- [x] Remote GitHub `origin` terhubung.
+- [x] Perubahan berhasil di-push ke GitHub.
+- [x] README sudah dilengkapi dengan NIM dan kelas.
+- [x] Minimal 3 commit bermakna tersedia.
+- [x] Screenshot output program disimpan di `docs/` (pengayaan).
 
 
 ## Riwayat Pengembangan yang Disarankan
